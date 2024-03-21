@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            // 첫 번재 C# 프로그램 실행
+            // 첫 번째 C# 프로그램 실행
             Console.WriteLine("Hello World?! 안녕 세상아!");
 
 
